@@ -1,0 +1,49 @@
+body{
+    background-color: floralwhite;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.footer{
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 25px;
+    font-size: 15px;
+    color:darkorchid;
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 10px;
+    position: fixed;
+}
+
+.navigation{
+    position: absolute;
+        right: 15px;
+        top: 25px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.youtubevideo{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.header{
+    font-size: x-large;
+    text-align: center;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.image{
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+
+
